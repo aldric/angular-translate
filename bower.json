@@ -6,16 +6,16 @@
   "homepage": "http://github.com/PascalPrecht/angular-translate",
   "repository": {
     "type": "git",
-    "url": "git://github.com/PascalPrecht/angular-translate"
+    "url": "git://github.com/aldric/angular-translate"
   },
   "main": "./build/angular-translate",
   "dependencies": {
-    "angular": "1.0.8"
+    "angular": "~1.2.6"
   },
   "devDependencies": {
-    "angular-mocks": "1.0.8",
+    "angular-mocks": "~1.2.6",
     "ngMidwayTester": "yearofmoo/ngMidwayTester",
-    "angular-translate-interpolation-messageformat": "~0.1.2",
-    "angular-cookies": "~1.0.8"
+    "angular-translate-interpolation-messageformat": "https://github.com/aldric/bower-angular-translate-interpolation-messageformat.git#~0.1.5",
+    "angular-cookies": "~1.2.6"
   }
 }
