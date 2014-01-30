@@ -10,12 +10,12 @@
   },
   "main": "./build/angular-translate",
   "dependencies": {
-    "angular": "~1.2.6"
+    "angular": "~1.2.10"
   },
   "devDependencies": {
-    "angular-mocks": "~1.2.6",
+    "angular-mocks": "~1.2.10",
     "ngMidwayTester": "yearofmoo/ngMidwayTester",
     "angular-translate-interpolation-messageformat": "https://github.com/aldric/bower-angular-translate-interpolation-messageformat.git#~0.1.5",
-    "angular-cookies": "~1.2.6"
+    "angular-cookies": "~1.2.10"
   }
 }
